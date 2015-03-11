@@ -1,0 +1,19 @@
+development:
+  adapter: postgresql
+  database: iWeather_development
+  username:
+  password:
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: iWeather_test
+  username:
+  password:
+  host: localhost
+
+production:
+  adapter: postgresql
+  database: iWeather_production
+  username:
+  password:
